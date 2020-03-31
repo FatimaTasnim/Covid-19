@@ -1,4 +1,4 @@
-# Covid-19 Experience
+# Covid-19 Experiment 
 - Tried to classify Covid-19 from x-ray and used class activation mapping to indicate the affected area. It's not for real life use as the data set is small and did it experimentally. Need to wrok on model improvement too.
 ![CAM](CAM.png)
 
