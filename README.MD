@@ -4,8 +4,11 @@
 
 ## Dataset 
 - https://github.com/ieee8023/covid-chestxray-dataset
+- https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset#IM-0003-0001.jpeg
 ## Reference
 - https://towardsdatascience.com/detecting-covid-19-induced-pneumonia-from-chest-x-rays-with-transfer-learning-an-implementation-311484e6afc1
 - https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/99753
 - https://dhruvs.space/posts/grad-cam-heatmaps-along-resnet-34/
-- 
+
+
+
